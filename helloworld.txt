@@ -1,4 +1,4 @@
 This is my first file.
 In this file, I'll write some stuff. (This was written for the second commit.)
 This line was created to test the merging function.
-This is the line created from the master.
+This fourth line was created in NEW BRANCH to test collapsing merge.
